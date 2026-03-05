@@ -1,3 +1,3 @@
 # AI Unified Process
 
-(unifiedprocess.ai)[https://unifiedprocess.ai]
+[unifiedprocess.ai](https://unifiedprocess.ai)
